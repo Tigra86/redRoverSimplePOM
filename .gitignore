@@ -1,3 +1,10 @@
 # created by virtualenv automatically
-.venv/
-.idea/
+/.venv/
+/.idea/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/SimplePOM.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
